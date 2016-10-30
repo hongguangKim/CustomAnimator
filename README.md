@@ -6,7 +6,7 @@ CustomAnimator
  
  Demo
 ================
-![demo](https://raw.githubusercontent.com/hongguangKim/CustomAnimator/master/DEMO/demo.png)
+![demo](https://raw.githubusercontent.com/hongguangKim/CustomAnimator/master/app2/DEMO/demo.png)
 
 Gradle
 ----
